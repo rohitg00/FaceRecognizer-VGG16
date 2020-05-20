@@ -16,3 +16,10 @@ conda activate MLOpsRG
 # Output:
 ![Output for Initial Code](https://github.com/rohitg00/FaceRecognizer-VGG16/blob/master/output.PNG)
 ![Output for Final Code of FaceRecognixer](https://github.com/rohitg00/FaceRecognizer-VGG16/blob/master/Output2.PNG)
+
+
+# Author
+[Rohit Ghumare](https://github.com/rohitg00/)
+
+# MIT License
+[MIT](https://github.com/rohitg00/FaceRecognizer-VGG16/blob/master/LICENSE)
