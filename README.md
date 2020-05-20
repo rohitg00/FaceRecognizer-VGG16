@@ -12,3 +12,7 @@ conda activate MLOpsRG
 
 # Use this file to run the recognizer:
 [Face REcognizer](https://github.com/rohitg00/FaceRecognizer-VGG16/blob/master/FaceRecognizer_VGG16.ipynb)
+
+# Output:
+[!Output for Initial Code](https://github.com/rohitg00/FaceRecognizer-VGG16/blob/master/output.PNG)
+[!Output for Final Code of FaceRecognixer](https://github.com/rohitg00/FaceRecognizer-VGG16/blob/master/Output2.PNG)
